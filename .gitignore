@@ -2,3 +2,5 @@
 .vscode
 build/
 test_data/
+docs/latex/
+docs/html/
